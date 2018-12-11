@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         name=(EditText)findViewById(R.id.name);
         imageView=(ImageView)findViewById(R.id.upload_image);
 
-
+//testing gitup
 
         choose.setOnClickListener(this);
         upload.setOnClickListener(this);
